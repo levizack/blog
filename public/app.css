@@ -1,0 +1,52 @@
+.main {
+    width: 600px;
+    background-color: #CCCCCC;
+    border: 1px solid #BBBBBB;
+    margin: 30px auto;
+    border-radius: 15px;
+}
+
+.main h1, h2 {
+    text-align: center;
+}
+
+.main hr {
+    border: 1px solid #000;
+}
+
+.main .content {
+    margin: 20px;
+    background-color: #EEEEEE;
+}
+
+form {
+    background-color: #CCC;
+}
+
+form label {
+    display: block;
+    font-weight: 600;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+input.button {
+    width: 150px;
+}
+
+input.button:hover {
+    background-color: #666666;
+    color: #FFFFFF;
+}
+
+.formElementButton {
+    text-align: center;
+}
+
+.p-12, .p-6 {
+    padding: 1rem;
+}
